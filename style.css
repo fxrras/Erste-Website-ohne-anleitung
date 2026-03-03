@@ -1,0 +1,116 @@
+.bewerbung{color: black;
+display: none;
+}
+        .bewerbung:hover{color: red;}
+
+    
+            a{color:rgb(50, 50, 231)}
+            a:hover{color:rgb(0, 187, 255)}
+
+            .socials{
+                margin-right: 12px
+            }
+.footer
+{
+    background-color: rgb(211, 205, 205);
+    padding: 8px;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content:flex-end;
+    margin-top: 10px
+}
+
+.header
+{
+    background-color:rgb(189, 184, 184);
+    padding: 12px;
+    display:flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content:center;
+}
+
+    .p {margin:11px}
+
+.bild-rechts {
+    display: flex;
+}
+
+.ferras
+{
+    display: block;
+    box-shadow:0 6px 18px rgba(0, 0, 0, 0.55);
+}
+
+.hobbys
+{
+    display:inline-block;
+    box-shadow:0 6px 18px rgb(20, 19, 19, 0.55);
+    padding:0px 20px;
+    font-family:"Inter", sans-serif;
+}
+
+.login
+{   
+    background-color: rgb(255, 255, 255);
+    box-shadow:0 6px 18px rgb(20, 19, 19, 0.55);
+    padding: 220px;
+}
+
+.login-body
+{
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center; /* horizontal */
+  align-items: center; 
+}
+
+.login input
+{
+    width: 170px;
+    padding: 14px;
+}
+
+.login button
+{
+    width: 100px;
+    padding: 14px;
+    border: 2px;
+}
+
+.login a
+{
+    text-decoration: none;
+    color: black;  
+}
+
+.main-headline
+{
+    display: flex;
+    justify-content: center;
+    box-shadow:0 6px 18px rgb(20, 19, 19, 0.55);
+    padding: 12px;
+    font-family: "poppins", sans-serif;
+}
+.vorstellung
+{
+    font-family:"Inter", sans-serif;
+}
+
+.weiter-btn {
+  display: inline-block;
+  padding: 12px 18px;
+  background-color: #ffffff;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
+  font-weight: 600;
+  border: 1px solid black;
+  font-family: Inter, sans-serif;
+}
+
+.weiter-btn:hover {
+  background-color: #afc4e2;
+}
